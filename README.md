@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielBjarefors
-- 👀 I’m interested in whatever´s on my mind at the moment
+
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on somthing in the future
+
 - 📫 How to reach me dbis@live.se
 
 <!---
